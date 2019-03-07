@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+.tox/
+build/
+dist/
+testing_pubsub.egg-info/
