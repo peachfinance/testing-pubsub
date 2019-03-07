@@ -1,1 +1,1 @@
-name = "testing_pubsub"
+from .pubsub import PubSubRunner
